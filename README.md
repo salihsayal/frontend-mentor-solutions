@@ -23,6 +23,9 @@ Challenge-name/
 
 Here is a list of my completed challenges with links to each solution: 
 1. [QR-Code](./qr-code-component/)
+| # | Title | Used |
+|---| ----- | -------- |
+|1|[QR-Code-Component](./qr-code-component/) | HTML, CSS |
 
 > **Note**: Each solution contains its own `README.md` file with more details, such as implementation notes, technologies used, and any optimizations made.
 
