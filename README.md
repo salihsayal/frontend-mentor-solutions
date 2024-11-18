@@ -11,7 +11,7 @@ Frontend Mentor offers developers realistic projects to help improve their HTML,
 Each solution is organized into its own directory, named after the specific challenge. Inside each directory, you will typically find:
 
 ```
-.
+Challenge-name/
 ├── index.html
 ├── style.css
 ├── script.js (if applicable)
