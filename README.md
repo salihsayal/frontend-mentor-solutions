@@ -22,7 +22,6 @@ Challenge-name/
 ## Solutions 
 
 Here is a list of my completed challenges with links to each solution: 
-1. [QR-Code](./qr-code-component/)
 | # | Title | Used |
 |---| ----- | -------- |
 |1|[QR-Code-Component](./qr-code-component/) | HTML, CSS |
@@ -42,7 +41,7 @@ git clone https://github.com/salihsayal/frontend-mentor-solutions.git
 2. Navigate to the specific challenge directory:
 
 ```bash
-cd frontend-mentor-solutions
+cd frontend-mentor-solutions/{project}
 ```
 
 3. Open the index.html file in your preferred web browser.
